@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -111.84282,
+              33.221099
+            ],
+            [
+              -111.84282,
+              33.299516
+            ],
+            [
+              -111.685833,
+              33.299516
+            ],
+            [
+              -111.685833,
+              33.221099
+            ],
+            [
+              -111.84282,
+              33.221099
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "School Boundary"
+      }
+    }
+  ]
+}

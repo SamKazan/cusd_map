@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.813489,
+          33.298375
+        ]
+      },
+      "properties": {
+        "address": "1625 E. Frye Rd., Chandler, AZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.758876,
+          33.221099
+        ]
+      },
+      "properties": {
+        "address": "5990 S. Val Vista Drive, Chandler, AZ 85249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.685833,
+          33.228119
+        ]
+      },
+      "properties": {
+        "address": "24901 S. Power Rd. Queen Creek, AZ 85142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.794111,
+          33.295536
+        ]
+      },
+      "properties": {
+        "address": "2626 E. Pecos Road, Chandler, AZ 85225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.84282,
+          33.252698
+        ]
+      },
+      "properties": {
+        "address": "3700 S. Arizona Avenue, Chandler, AZ 85248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.808147,
+          33.299516
+        ]
+      },
+      "properties": {
+        "address": "290 S. Cooper Road, Chandler, AZ 85225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.748208,
+          33.261707
+        ]
+      },
+      "properties": {
+        "address": "1919 E. Queen Creek, Gilbert, AZ 85297"
+      }
+    }
+  ]
+}
